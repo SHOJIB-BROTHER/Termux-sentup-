@@ -10,10 +10,11 @@
 Y দিয়ে এন্টার করব
 
 
+যারা এসবও পারবেন না তারা নিচে সবগুলো কপি করুন এবং তারা termux গিয়ে past করে দেন।
 
-1 termux-setup-storage 
-2 pkg install git
-3 git clone https://github.com/SHOJIB-BROTHER/Termux-sentup-.git
-4 cd Termux-sentup-
-5 chmod +x termux_setup.sh
-6 ./termux_setup.sh
+termux-setup-storage 
+pkg install git
+git clone https://github.com/SHOJIB-BROTHER/Termux-sentup-.git
+cd Termux-sentup-
+chmod +x termux_setup.sh
+./termux_setup.sh
