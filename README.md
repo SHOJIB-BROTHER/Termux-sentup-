@@ -8,3 +8,12 @@
 তারপর ./termux_setup.sh দেবো 
 তারপর যদি এইরকম কোন কিছু আসে Y/N তাহলে আমরা 
 Y দিয়ে এন্টার করব
+
+
+
+1 termux-setup-storage 
+2 pkg install git
+3 git clone https://github.com/SHOJIB-BROTHER/Termux-sentup-.git
+4 cd Termux-sentup-
+5 chmod +x termux_setup.sh
+6 ./termux_setup.sh
